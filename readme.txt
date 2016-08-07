@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Hello world! Hello git!
 Creating a new branch is quick.
 dev1
+dev2
